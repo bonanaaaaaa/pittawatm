@@ -1,16 +1,13 @@
-### Hi there 👋
+### 🎊 Welcome 🎊
 
-<!--
-**pittawatm/pittawatm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer who spent almost of his 7 years with JavaScript and 2 years with Elixir.
 
-Here are some ideas to get you started:
+**Now**
+- Full-Stack Developer @OneWorkAi, just started and back to JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Bio**
+- 🏠 Living in Bangkok
+- <img src="https://user-images.githubusercontent.com/1984759/117566863-52e90600-b0e3-11eb-930e-f5c2fd1da21d.png" width="23" /> Miami Heat Fan
+- 🏀 Basketball lover
+- ♒ Aquarius
+- Currently learning Rust, K8S, CSS
