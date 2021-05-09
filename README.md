@@ -1,6 +1,6 @@
 ### 🎊 Welcome 🎊
 
-I’m a developer who spent almost of his 7 years with JavaScript and 2 years with Elixir.
+I’m a developer who spent 7 years with JavaScript and 2 years with Elixir.
 
 **Now**
 - Full-Stack Developer @OneWorkAi, just started and back to JavaScript
